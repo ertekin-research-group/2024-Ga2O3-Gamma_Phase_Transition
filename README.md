@@ -1,4 +1,4 @@
-# 2024-Ga₂O₃-γ_Phase_Transition
+# 2024, γ-Ga₂O₃ Phase Transition
 
 This repository contains the code and data for the study titled **"Revealing the Transformation Pathway of the β to γ Phase Transition in Ga₂O₃: A First-Principles Study."**
 
